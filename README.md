@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Benitez Nestor S.
 
 ### 🚀 Aspiring IT Professional & Developer
 I am an IT student dedicated to building clean, efficient, and user-friendly technology solutions. I bridge the gap between academic theory and practical software development to solve real-world business problems.
